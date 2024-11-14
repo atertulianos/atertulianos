@@ -4,8 +4,8 @@
 <a href="https://instagram.com/dicasparadevs"><img src="https://img.shields.io/badge/-@anderson.dev_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://andersondev.com.br"><img src="https://img.shields.io/badge/-andersondev.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-andersondev-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/anderson-tertuliano"><img src="https://img.shields.io/badge/-Anderson%20Tertuliano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:anderson.tertuliano@gmail.com"><img src="https://img.shields.io/badge/-anderson.tertuliano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/anderson-tertuliano](https://www.linkedin.com/in/anderson-d-509184201)"><img src="https://img.shields.io/badge/-Anderson%20Tertuliano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:andersontertus@gmail.com"><img src="https://img.shields.io/badge/-anderson.tertuliano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h2>👨🏻‍💻 &nbsp;Resumo</h2>
@@ -52,9 +52,3 @@ Com sólida experiência em Machine Learning e IA, aplico modelos como LLMs (Lar
 ![DataLake](https://img.shields.io/badge/-DataLake-333333?style=flat&logo=databricks)
 ![Data Warehouses](https://img.shields.io/badge/-Data%20Warehouses-333333?style=flat)
 ![Data Grids](https://img.shields.io/badge/-Data%20Grids-333333?style=flat)
-
-
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
-
-![Anderson Tertuliano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersontertuliano&show_icons=true&theme=dracula)
-
