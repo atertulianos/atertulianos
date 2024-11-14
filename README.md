@@ -3,13 +3,19 @@
 <p align="center">
 <a href="https://instagram.com/dicasparadevs"><img src="https://img.shields.io/badge/-@anderson.dev_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://andersondev.com.br"><img src="https://img.shields.io/badge/-andersondev.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-andersondev-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="[https://www.linkedin.com/in/anderson-tertuliano](https://www.linkedin.com/in/anderson-d-509184201)"><img src="https://img.shields.io/badge/-Anderson%20Tertuliano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anderson-d-509184201"><img src="https://img.shields.io/badge/-Anderson%20Tertuliano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:andersontertus@gmail.com"><img src="https://img.shields.io/badge/-anderson.tertuliano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h2>👨🏻‍💻 &nbsp;About me</h2>
 
+I started my career as a helpdesk technician at Tellus S/A, where I quickly advanced to the position of computer technician, developing fundamental skills. Then, I worked in two simultaneous roles: computer technician at Microsens and Internet Programmer at CPD Informática, applying knowledge acquired in the college of Systems Analysis and Development. Later, I undertook creating solutions for retail, wholesale and telecommunications, which broadened my vision of the market.
+
+Upon returning to the corporate market, I worked as an IT Assistant at Conbrás Engenharia and continued to improve in technologies such as Flutter, Vue.js, Laravel, and data science with Python and R. Recently, I expanded my skills to fullstack development with Node.js, Nest.js, Jest, React.js, Next.js, TypeScript and GraphQL. I am also experienced with MongoDB, Prisma ORM, and TypeORM, as well as cloud infrastructure (AWS, GCP) and data tools, such as Apache Airflow, DataLake, and Data Warehouses.
+
+With a strong background in Machine Learning and AI, I apply models such as LLMs (Large Language Models) to innovative solutions, extracting value from complex data. Today, I am part of a prominent team and I maintain a commitment to quality and innovation in each project, always seeking excellence and significant results.
+
+---
 Iniciei minha carreira como técnico de helpdesk na Tellus S/A, onde avancei rapidamente para o cargo de técnico de informática, desenvolvendo habilidades fundamentais. Em seguida, atuei em dois papéis simultâneos: técnico de informática na Microsens e Programador de Internet na CPD Informática, aplicando conhecimentos adquiridos na faculdade de Análise e Desenvolvimento de Sistemas. Posteriormente, empreendi criando soluções para o varejo, atacado e telecomunicações, o que ampliou minha visão de mercado.
 
 Ao retornar ao mercado corporativo, trabalhei como Assistente de TI na Conbrás Engenharia e continuei me aperfeiçoando em tecnologias como Flutter, Vue.js, Laravel, e ciência de dados com Python e R. Recentemente, ampliei minhas competências para o desenvolvimento fullstack com Node.js, Nest.js, Jest, React.js, Next.js, TypeScript e GraphQL. Também sou experiente com MongoDB, Prisma ORM e TypeORM, além de infraestrutura em nuvem (AWS, GCP) e ferramentas de dados, como Apache Airflow, DataLake e Data Warehouses.
