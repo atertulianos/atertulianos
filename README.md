@@ -4,7 +4,7 @@
 <a href="https://instagram.com/dicasparadevs"><img src="https://img.shields.io/badge/-@anderson.dev_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://andersondev.com.br"><img src="https://img.shields.io/badge/-andersondev.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/anderson-d-509184201"><img src="https://img.shields.io/badge/-Anderson%20Tertuliano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:andersontertus@gmail.com"><img src="https://img.shields.io/badge/-anderson.tertuliano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:andersontertus@gmail.com"><img src="https://img.shields.io/badge/-andersontertus@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h2>👨🏻‍💻 &nbsp;About me</h2>
