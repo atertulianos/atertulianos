@@ -8,7 +8,7 @@
 <a href="mailto:andersontertus@gmail.com"><img src="https://img.shields.io/badge/-anderson.tertuliano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<h2>👨🏻‍💻 &nbsp;Resumo</h2>
+<h2>👨🏻‍💻 &nbsp;About me</h2>
 
 Iniciei minha carreira como técnico de helpdesk na Tellus S/A, onde avancei rapidamente para o cargo de técnico de informática, desenvolvendo habilidades fundamentais. Em seguida, atuei em dois papéis simultâneos: técnico de informática na Microsens e Programador de Internet na CPD Informática, aplicando conhecimentos adquiridos na faculdade de Análise e Desenvolvimento de Sistemas. Posteriormente, empreendi criando soluções para o varejo, atacado e telecomunicações, o que ampliou minha visão de mercado.
 
