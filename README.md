@@ -1,7 +1,3 @@
-Aqui está a apresentação adaptada para **Anderson Tertuliano dos Santos**, com as especificações e o resumo atualizado:
-
----
-
 # Anderson Tertuliano dos Santos
 
 <p align="center">
@@ -21,6 +17,7 @@ Ao retornar ao mercado corporativo, trabalhei como Assistente de TI na Conbrás 
 Com sólida experiência em Machine Learning e IA, aplico modelos como LLMs (Large Language Models) para soluções inovadoras, extraindo valor de dados complexos. Hoje, integro uma equipe de destaque e mantenho o compromisso com qualidade e inovação em cada projeto, buscando sempre excelência e resultados significativos.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
+
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -32,16 +29,20 @@ Com sólida experiência em Machine Learning e IA, aplico modelos como LLMs (Lar
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm&logoColor=E535AB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
 
 <h3>☁️ &nbsp;Cloud e Data Engineering:</h3>
 
@@ -50,11 +51,10 @@ Com sólida experiência em Machine Learning e IA, aplico modelos como LLMs (Lar
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apache-airflow)
 ![DataLake](https://img.shields.io/badge/-DataLake-333333?style=flat&logo=databricks)
 ![Data Warehouses](https://img.shields.io/badge/-Data%20Warehouses-333333?style=flat)
+![Data Grids](https://img.shields.io/badge/-Data%20Grids-333333?style=flat)
+
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Anderson Tertuliano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersontertuliano&show_icons=true&theme=dracula)
 
----
-
-Essa apresentação agora reflete a experiência e as competências de Anderson Tertuliano dos Santos, com um foco mais atual nas tecnologias e áreas de atuação descritas no resumo.
